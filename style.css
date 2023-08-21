@@ -29,7 +29,7 @@ ul {
   gap: 64px;
 }
 
-li a {
+a {
   text-decoration: none;
   color: #FFF;
   font-size: 14px;
